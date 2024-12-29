@@ -1,0 +1,10 @@
+README.md
+setup.py
+custom_tools/__init__.py
+custom_tools/aws_s3.py
+practice.egg-info/PKG-INFO
+practice.egg-info/SOURCES.txt
+practice.egg-info/dependency_links.txt
+practice.egg-info/top_level.txt
+src/__init__.py
+src/main.py
